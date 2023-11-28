@@ -136,3 +136,14 @@ Fazer a junção de duas tabelas e trazer um resultado em conjunto desses dados.
 
 
 Para gerar tokens -> npm i jsonwebtoken 
+
+
+
+TESTES
+Testes de Unidade 
+Testes de Intregação
+
+npm i --save-dev jest
+
+Iniciar o Jest 
+ npx jest --init
