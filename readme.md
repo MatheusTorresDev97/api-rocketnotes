@@ -147,3 +147,5 @@ npm i --save-dev jest
 
 Iniciar o Jest 
  npx jest --init
+
+ 
